@@ -1,0 +1,2 @@
+# NetCore.Serilog.ElasticSearch.API
+ 
